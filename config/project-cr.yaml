@@ -1,0 +1,6 @@
+apiVersion: "mark8s.io/v1alpha1"
+kind: "Project"
+metadata:
+  name: "example-project"
+spec:
+  replicas: 1
